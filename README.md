@@ -7,13 +7,13 @@ Calculate equity characteristics and returns with [codes](https://github.com/Fen
 
 ## Step 2
 
-Run the main.py
+Run `main_sort_20210202.py`
 
 ## Output
 
 You get an object, in the class `cs` definded in folder `./tools/`. The object contains 61 groups of univariate (quintile) sorted portfolios and 60 groups of bivariate (ME2 x Char3) sorted portfolios, where portfolio returns, long-short factors, portfolio characteristics are very convenient to access via the class `cs`.
 
-A simple exampleis there in `.ipynb` format.
+A simple example is there in `example.ipynb` to demonstrate the features in class `cs`.
 
 ## Disclaimer
 
